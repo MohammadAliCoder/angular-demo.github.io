@@ -1,0 +1,77 @@
+{
+  "brand": "Brand",
+  "home": "Home",
+  "products": "Products",
+  "services": "Services",
+  "contact":"Contact Us",
+  "about": "About Us",
+  "prices": "Prices",
+  "language" : "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "started": "Get Started",
+  "why-us": "Why Us",
+
+  "intro_title": "We Create Applications With Excellent Technology.",
+  "intro_des": "It Is A Long Established Fact That A Reader Will Be Distracted By The Readable Content Of A Page When Looking At Its Layout. The Point Of Using Lorem Ipsum Is That It Has A More-Or-Less Normal Distribution Of Letters, As Opposed To Using 'Content Here, Content Here', Making It Look Like Readable English.",
+  "start": "Download Now",
+  "learn": "Explore More",
+  "service_title": "We provide various kind of service for you.",
+
+  "description": "It Is A Long Established Fact That A Reader Will Be Distracted By The Readable Content Of A Page When Looking At Its Layout. The Point Of Using Lorem Ipsum Is That It Has A More-Or-Less Normal Distribution Of Letters, As Opposed To Using 'Content Here, Content Here', Making It Look Like Readable English.",
+  "description-s": "It Is A Long Established Fact That A Reader Will Be Distracted By The Readable Content Of A Page When Looking At Its Layout.",
+
+  "serv-1": "Unique App Ui",
+  "serv-2": "Client Dashboard",
+  "serv-3": "By Construction",
+
+  "built": "Built The App ThatEveryone Love.",
+  "get_More": "Get More",
+
+  "completed": "We Completed 10+ Projects Yearly Successfully & Counting",
+
+  "Project_Completes": "Project Completes",
+  "Active_Projects": "Active Projects",
+  "Clients_Satisfied": "Clients Satisfied",
+  "Countries_Available": "Available Countries",
+
+  "Portfolio_screenshot": "Portfolio Screenshot",
+  "Clients_Feedback": "Our Clients Feedback",
+  "post": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo",
+  "Pricing_Plans": "Pricing Plans",
+
+  "Standard": "Standard",
+  "Business": "Business",
+  "Gold": "Gold",
+  "Sign_up": "Sign up",
+
+
+  "send": "Send Message",
+  "full_name": "Full name",
+  "mail": "Mail",
+  "subject": "Subject",
+  "message": "Message",
+  "phone": "Phone",
+  "Company_name": "Company name",
+  "communication": "Communication",
+  "product": "Product",
+  "link":"Link",
+  "Links": "Links",
+  "Download": "Download",
+  "Support": "Support",
+  "FAQ": "FAQ",
+  "How it Works": "How it Works",
+  "Features": "Features",
+  "Contact": "Contact",
+  "Reporting": "Reporting",
+
+  "Technical support": "Technical support",
+  "Common questions": "Common questions",
+  "Contact Us": "Contact Us",
+  "Whatsapp support": "Whatsapp support",
+  "Follow Us": "Follow Us"
+
+
+
+
+}
